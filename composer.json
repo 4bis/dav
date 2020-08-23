@@ -1,5 +1,5 @@
 {
-    "name": "sabre/dav",
+    "name": "4bis/dav",
     "type": "library",
     "description": "WebDAV Framework for PHP",
     "keywords": ["Framework", "WebDAV", "CalDAV", "CardDAV", "iCalendar"],
@@ -18,7 +18,7 @@
         "sabre/vobject": "^4.2.1",
         "sabre/event" : "^5.0",
         "sabre/xml"  : "^2.0.1",
-        "sabre/http" : "^5.0.5",
+        "4bis/http" : "^5.0.5",
         "sabre/uri" : "^2.0",
         "ext-dom": "*",
         "ext-pcre": "*",
