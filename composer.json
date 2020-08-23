@@ -7,7 +7,7 @@
     "license" : "BSD-3-Clause",
     "extra": {
         "branch-alias": {
-            "dev-master": "4.2-dev"
+            "dev-master": "master"
         }
     },
     "authors": [
