@@ -7,7 +7,7 @@
     "license" : "BSD-3-Clause",
     "extra": {
         "branch-alias": {
-            "dev-master": "dev-master"
+            "dev-master": "max4kaps-patch-1"
         }
     },
     "authors": [
