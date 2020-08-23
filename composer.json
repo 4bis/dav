@@ -5,6 +5,11 @@
     "keywords": ["Framework", "WebDAV", "CalDAV", "CardDAV", "iCalendar"],
     "homepage": "http://sabre.io/",
     "license" : "BSD-3-Clause",
+    "extra": {
+        "branch-alias": {
+            "dev-master": "1.1-dev"
+        }
+    }
     "authors": [
         {
             "name": "Evert Pot",
