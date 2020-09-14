@@ -92,7 +92,7 @@
             "composer phpunit"
         ]
     },
-"repositories": [
+    "repositories": [
         {
             "type": "vcs",
             "url":  "git@github.com:4bis/dav.git"
