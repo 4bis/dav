@@ -101,5 +101,5 @@
             "type": "vcs",
             "url":  "git@github.com:4bis/http.git"
         }
-    ],
+    ]
 }
